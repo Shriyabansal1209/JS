@@ -1,0 +1,27 @@
+    table, tr,td{
+        border: 0px solid black;
+    }
+    td{
+        padding: 5px;
+    }
+    body{
+        background-color: aqua;
+        padding: 5px;
+    }
+    a{
+        font-size: 30px;
+        padding-left: 5px;
+    }
+    p{
+        color: black;
+        padding: 5px;
+        font-size: 25px;  
+    }
+    ol{
+        font-size: 25px;
+        color: black;
+    }
+    ul{
+        font-size: 25px;
+        color: black;
+    }
